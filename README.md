@@ -1,5 +1,9 @@
 # Eth-AVAX-Metacrafters
 
+## Smart Contract: PojectExample
+- This smart contract performs the require(), assert(), and revert() statements to do various checks and calculations. It takes a value as 
+ input, performs some calculations, and returns the result.
+
 ## Require()
 - requireStatement(): This function takes a number as a parameter and uses the require() statement to check if the number is greater than zero. If the condition evaluates to false, it reverts the transaction with the given error message.
 - Require function has two parts one that checks the conditioin and other that produces an error message if the condition is flase.
